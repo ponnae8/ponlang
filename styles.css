@@ -1,0 +1,85 @@
+/* This is a single-line comment */
+body {
+  background-color: #f1f4d0;
+}
+h1 {
+  color: black;
+  font-family: verdana, sans-serif;
+  font-size: 300%;
+  border: 10px solid #89c33c;
+  padding: 10px;
+  margin: 50px;
+  text-align: center;
+}
+h2 {
+  color: black;
+  font-family: verdana, sans-serif;
+  font-size: 200%;
+}
+p {
+  color: #1f1b08;
+  font-family: courier, monospace;
+  font-size: 100%;
+}
+.one {
+  color: blue;
+  font-family: courier;
+  font-size: 100%;
+}
+a:link, a:visited {
+  background-color: #89c33c;
+  color: #f1f4d0;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+  background-color: red;
+}
+table, th, td {
+  border: 10px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+  padding: 15px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #44a12c;
+}
+.city {
+  background-color: tomato;
+  color: white;
+  padding: 10px;
+}
+.main {
+  background-color: yellow;
+  color: white;
+  padding: 10px;
+}
+img {
+  margin: auto;
+  border: 1px solid red;
+}
+div {
+  width: 300px;
+  padding: 25px;
+}
